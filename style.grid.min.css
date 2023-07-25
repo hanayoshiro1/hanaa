@@ -114,12 +114,12 @@ body {
 
 .grid-item .action-btns .view-btn {
   background-color: transparent;
-  border-color: #000000;
+  border-color: ##000000;
 }
 
 .grid-item .action-btns .bid-btn:hover {
   background-color: transparent;
-  border-color: #000000;
+  border-color: ##000000;
 }
 
 .grid-item .action-btns .view-btn:hover {
