@@ -44,7 +44,7 @@ background-image: linear-gradient(254deg, #673AB7 21%, #64B5F6 88%);
 .grid-item .content {
   width: 100%;
   padding: 25px 20px 20px;
-  background-color: rgba(100, 149, 237, 0.6);
+  background-color: rgba(100, 149, 237, 0.4);
   backdrop-filter: blur(8px);
   position: absolute;
   bottom: 0;
